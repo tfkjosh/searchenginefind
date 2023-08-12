@@ -10,7 +10,7 @@
 
 ## Description
 
-This website is designed for a marketing company called Horiseon FindSeo Service, Inc. They specialize in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. They also provide assistance with lead generation strategies, building your business's brand awareness through paid and organic searches, and effectively managing the cost of your advertising.
+This website is designed for a marketing company called FindSeo Service, Inc. They specialize in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. They also provide assistance with lead generation strategies, building your business's brand awareness through paid and organic searches, and effectively managing the cost of your advertising.
 
 The HTML and CSS were reviewed and refactored to make the HTML and CSS semantic, cleaner, and more concise. Accessibility was brought up to standard. Comments were added to bring awareness to the changes made.
 
