@@ -30,7 +30,7 @@ The HTML and CSS were reviewed and refactored to make the HTML and CSS semantic,
 
 ![FindSeo website URL](file:///Users/macuser/uta/index.html#search-engine-optimization)
 
-Navigate to [FindSeo Services]() and view the web page.
+Navigate to [FindSeo Services](https://github.com/tfkjosh/searchenginefind/blob/main/index.html) and view the web page.
 
 ## Credits
 
@@ -40,7 +40,7 @@ Created by [Joshua King](github.com/tfkjosh).
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Joshua King]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
