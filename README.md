@@ -13,7 +13,7 @@
 
 This website is designed for a marketing company called FindSeo Service, Inc. They specialize in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. They also provide assistance with lead generation strategies, building your business's brand awareness through paid and organic searches, and effectively managing the cost of your advertising.
 
-##Acceptance Criteria
+## Acceptance Criteria
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
